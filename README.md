@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hello! 
+
+# About Me
+My name is Alex Krings and I just recently graduated from Montana State University with a BS in computer sciecne! 🎓
+
+- I'm 22 years old 
+- I'm currently looking for my first job in tech
+- 
+
+
 
 <!--
 **TheHastyPilot/TheHastyPilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
