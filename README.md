@@ -1,11 +1,16 @@
-### 👋 Hello! 
+### Current Favorite Album: Random Access Memories - Daft Punk
 
-# About Me
-My name is Alex Krings and I just recently graduated from Montana State University with a BS in computer sciecne! 🎓
+# <i> Honestly, I don't even know anymore</i> 
+Hello there! I'm Alex, a 23 year old who's fighting for his life in this market. 
 
-- I'm 22 years old 
-- I'm currently looking for my first job in tech
-- 
+Accomplishments: 
+- Graduated May, 2023 w/a BS in Computer Science (yippee!)
+- (Work In Progress) My little music web-app thingy
+- Hit Champ III in Rocket League (2s)
+- Can almost do a handstand
+
+
+
 
 
 
