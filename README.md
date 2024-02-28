@@ -9,3 +9,6 @@ Hello there! I'm Alex, a 23 year old who's fighting for his life in this market.
 - Hit Champ III in Rocket League (2s)
 - Can almost do a handstand
 
+
+a1krings@icloud.com
+
