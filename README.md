@@ -1,7 +1,9 @@
 ### <i>Current Favorite Album: Random Access Memories - Daft Punk </i>
 
 # me!
-Hello there! I'm Alex, a 23 year old who's fighting for his life. 
+Hello there! I'm Alex, a 24 year old who's currently fighting for his life. 
+
+Working as a DBA at Montana Tech
 
 ### Accomplishments: 
 - Graduated May, 2023 w/a BS in Computer Science (yahoo)
